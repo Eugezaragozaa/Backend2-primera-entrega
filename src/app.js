@@ -39,14 +39,14 @@ async function createTestUsers() {
     {
       first_name: "Melanie",
       last_name: "Gómez",
-      email: "ana.gomez@example.com",
+      email: "melanie.gomez@example.com",
       age: 25,
       password: "melanie1234",
     },
     {
       first_name: "Tomas",
       last_name: "Martínez",
-      email: "carlos.martinez@example.com",
+      email: "tomas.martinez@example.com",
       age: 30,
       password: "tomas1234",
     },

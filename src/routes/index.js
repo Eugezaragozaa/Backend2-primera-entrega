@@ -3,7 +3,7 @@ import productsRouter from "./products.routes.js";
 import cartsRouter from "./carts.routes.js";
 import passport from 'passport';  // Importamos passport
 import jwt from 'jsonwebtoken';  // Importamos jsonwebtoken para crear el JWT
-import { User } from '../models/user.js'; // Importar el modelo User
+//import { User } from '../models/user.js';  Importar el modelo User
 
 const router = Router();
 
